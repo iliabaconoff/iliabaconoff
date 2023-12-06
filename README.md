@@ -1,8 +1,5 @@
 ## ✋ Hii there, my name is Ilia!
 
-<img src="https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e" align="right" width="300px"/>
-
-
 ### 📓 About:
 
 <div id="header">
@@ -13,7 +10,7 @@
   </ul>  
 </div>
 
-### 📱: Contacts:
+### 📱 Contacts:
 
 <div id="badges">
   <a href="https://t.me/bacon_off">
@@ -24,7 +21,7 @@
   </a>
 </div>
 
-### 💻: Stack:
+### 💻 Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,5 +34,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 💼: My stat:
+### 💼 My stat:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliabaconoff&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliabaconoff&layout=compact) 
