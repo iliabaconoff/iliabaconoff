@@ -1,8 +1,8 @@
-## :wave: Hii there, my name is Ilia!
+## ✋ Hii there, my name is Ilia!
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" align="right" width="300px"/>
 
-### About:
+### 📓 About:
 
 <div id="header">
   <ul list-style="none">
@@ -12,7 +12,7 @@
   </ul>  
 </div>
 
-### :iphone: Contacts:
+### 📱: Contacts:
 
 <div id="badges">
   <a href="https://t.me/bacon_off">
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-### :computer: Stack:
+### 💻: Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,5 +36,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 💼: Дополнительно:
+### 💼: My stat:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliabaconoff&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliabaconoff&layout=compact) 
